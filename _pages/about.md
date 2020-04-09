@@ -134,6 +134,10 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FYbelCVLhLY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
+    <p>
+    Lecturer and Support staff: Ding Xu, Jiaqi Li, Kheng Yi, Cara Leong, Christopher Hendra<br/>
+    </p>
+  </p>
   </td>
 </tr>
 <tr>
@@ -221,6 +225,9 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
       Dialogue and Discourse
     </strong>
   <em>Tentative</em>: Research Sharing Session and Social Outing
+  <p>
+    Lecturer and Support staff: Samson Tan, Siow Meng Low, Shi Tian, Jiaqi Li, Yigit<br/>
+    </p>
   </td>
   </tr>
   <tr>
